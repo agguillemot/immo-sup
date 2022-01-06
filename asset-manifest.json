@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/interactive-hood/static/css/main.46fb17ab.css",
-    "main.js": "/interactive-hood/static/js/main.0ed41b4b.js",
-    "static/js/787.4bc70c53.chunk.js": "/interactive-hood/static/js/787.4bc70c53.chunk.js",
-    "index.html": "/interactive-hood/index.html",
-    "main.46fb17ab.css.map": "/interactive-hood/static/css/main.46fb17ab.css.map",
-    "main.0ed41b4b.js.map": "/interactive-hood/static/js/main.0ed41b4b.js.map",
-    "787.4bc70c53.chunk.js.map": "/interactive-hood/static/js/787.4bc70c53.chunk.js.map"
+    "main.css": "/immo-sup/static/css/main.46fb17ab.css",
+    "main.js": "/immo-sup/static/js/main.daf12e03.js",
+    "static/js/787.4bc70c53.chunk.js": "/immo-sup/static/js/787.4bc70c53.chunk.js",
+    "index.html": "/immo-sup/index.html",
+    "main.46fb17ab.css.map": "/immo-sup/static/css/main.46fb17ab.css.map",
+    "main.daf12e03.js.map": "/immo-sup/static/js/main.daf12e03.js.map",
+    "787.4bc70c53.chunk.js.map": "/immo-sup/static/js/787.4bc70c53.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.46fb17ab.css",
-    "static/js/main.0ed41b4b.js"
+    "static/js/main.daf12e03.js"
   ]
 }
