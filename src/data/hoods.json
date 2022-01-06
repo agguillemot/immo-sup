@@ -1,0 +1,114 @@
+{
+    "hood1":{
+        "name": "Petite Couronne",
+        "description": "todo",
+        "transports": "todo",
+        "shops": "todo",
+        "hotspots": "todo",
+        "student_life": 1,
+        "bars": 1,
+        "bonus": "TODO",
+        "prices": {
+            "studio": 0,
+            "t2": 0,
+            "t3": 0,
+            "shared": 0 
+        }
+    },
+    "hood2":{
+        "name": "Gare",
+        "description": "todo",
+        "transports": "très bien desservi (Lille Flandres, Lille Europe, Bus (9 arrêts), Métro (1 arrêt))",
+        "shops": "Euralille: CC de 1000 m², Supérettes (4)",
+        "hotspots": "Euralille, Zénith/Grand Palais, Casino",
+        "student_life": 5,
+        "bars": 3,
+        "bonus": "Proche de la grand place",
+        "prices": {
+            "studio": 500,
+            "t2": 650,
+            "t3": 800,
+            "shared": 300 
+        }
+    },
+    "hood3": {
+        "name": "Ville vieille",
+        "description": "todo",
+        "transports": "todo",
+        "shops": "todo",
+        "hotspots": "todo",
+        "student_life": 1,
+        "bars": 1,
+        "bonus": "TODO",
+        "prices": {
+            "studio": 0,
+            "t2": 0,
+            "t3": 0,
+            "shared": 0
+        }
+    },
+    "hood4": {
+        "name": "Ouest",
+        "description": "todo",
+        "transports": "todo",
+        "shops": "todo",
+        "hotspots": "todo",
+        "student_life": 1,
+        "bars": 1,
+        "bonus": "TODO",
+        "prices": {
+            "studio": 0,
+            "t2": 0,
+            "t3": 0,
+            "shared": 0
+        }
+    },
+    "hood5": {
+        "name": "Jardin des plantes",
+        "description": "todo",
+        "transports": "todo",
+        "shops": "todo",
+        "hotspots": "todo",
+        "student_life": 1,
+        "bars": 1,
+        "bonus": "TODO",
+        "prices": {
+            "studio": 0,
+            "t2": 0,
+            "t3": 0,
+            "shared": 0
+        }
+    },
+    "hood6": {
+        "name": "Les Quais",
+        "description": "todo",
+        "transports": "todo",
+        "shops": "todo",
+        "hotspots": "todo",
+        "student_life": 1,
+        "bars": 1,
+        "bonus": "TODO",
+        "prices": {
+            "studio": 0,
+            "t2": 0,
+            "t3": 0,
+            "shared": 0
+        }
+    },
+    "hood7": {
+        "name": "Est",
+        "description": "todo",
+        "transports": "todo",
+        "shops": "todo",
+        "hotspots": "todo",
+        "student_life": 1,
+        "bars": 1,
+        "bonus": "TODO",
+        "prices": {
+            "studio": 0,
+            "t2": 0,
+            "t3": 0,
+            "shared": 0
+        }
+    }
+}

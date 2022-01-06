@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  display: flex;
 }
 
 .App-logo {
@@ -36,3 +37,55 @@
     transform: rotate(360deg);
   }
 }
+
+.map {
+  width: 75%;
+}
+
+.details {
+  width: 25%;
+  border: 1px solid black;
+  margin-top: 25px;
+  margin-right: 25px;
+  text-align: left;
+  padding: 8px 20px;
+}
+
+.details h2 {
+  font-size: 16px;
+  margin-bottom: 4px;
+  margin-top: 20px;
+}
+
+.details p {
+  margin: 0;
+}
+
+.hood { fill: #fff; opacity: 0.6; }
+.hood:hover {
+  fill: red;
+  opacity: 1;
+  cursor: pointer;
+  filter: drop-shadow(0 0 2px rgba(0, 0, 0, 0.5));
+}
+.hood.selected { fill: green; opacity: 1; }
+
+#hood1 { fill: cornflowerblue; stroke: rgb(70, 105, 168);}
+#hood2 { fill: yellow; stroke: rgb(172, 172, 0); }
+#hood3 { fill: limegreen; stroke: rgb(22, 153, 22); }
+#hood4 { fill: purple; stroke: rgb(65, 7, 65); }
+#hood5 { fill: cyan; stroke: rgb(20, 141, 141); }
+#hood6 { fill: grey; stroke: rgb(63, 62, 62); }
+#hood7 { fill: orange; stroke: rgb(165, 107, 0); }
+
+svg text {
+  white-space: pre;
+  fill: #333;
+  font-family: Arial, sans-serif;
+  font-size: 9px;
+  cursor: pointer;
+}
+
+svg .river { stroke: navy; fill: rgb(0, 162, 255); }
+svg .forest { stroke: green; fill: greenyellow }
+svg .building { stroke: black; fill: #333 }
