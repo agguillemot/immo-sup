@@ -8,6 +8,7 @@ import Home from "./pages/Home";
 const Switch = () => (
     <Routes>
         <Route exact path="/" element={<Home />}></Route>
+        <Route exact path="/immo-sup" element={<Home />}></Route>
     </Routes>
 );
 
